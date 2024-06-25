@@ -101,15 +101,22 @@
         class="bg-gray-800 p-3 rounded border border-transparent focus:outline-none focus:border-red-400 text-gray-50"
         v-model="nameInput"
         required />
-      <button type="submit" class="bg-rose-700 text-white p-3 focus:outline-none border-none rounded">Lihat</button>
+      <button
+        type="submit"
+        class="bg-rose-700 hover:bg-red-800 active:bg-red-900 text-white p-3 focus:outline-none border-none rounded font-semibold">
+        Lihat
+      </button>
     </form>
   </div>
-  <div v-if="isLoading" class="w-full bg-gray-700 text-center p-8 rounded-lg shadow mt-4 flex justify-center">
+  <div
+    v-if="isLoading"
+    class="w-full bg-gray-700 text-center p-8 rounded-lg shadow mt-4 flex flex-col justify-center items-center">
     <Loader></Loader>
+    <p class="text-gray-200">Neau Kodam Alih ...</p>
   </div>
   <div v-if="kodamName" class="w-full bg-gray-700 text-center p-8 box-border rounded-lg shadow mt-4">
     <div>
-      <h2 class="p-4 text-xl text-rose-600 font-bold">{{ kodamName }}</h2>
+      <h2 class="p-4 text-3xl text-rose-500 font-bold font-elite">{{ kodamName }}</h2>
       <p class="text-white">{{ kodamDesc }}</p>
     </div>
   </div>
