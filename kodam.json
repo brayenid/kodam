@@ -26,8 +26,8 @@
     },
     {
         "id": 6,
-        "name": "Genderuwo 🧌",
-        "description": "Genderuwo adalah kodham yang menakutkan dan penuh kekuatan, melindungi dengan kehadiran yang mengintimidasi."
+        "name": "Wakwau 🧌",
+        "description": "Wakwau adalah kodham yang menakutkan dan penuh kekuatan, melindungi dengan kehadiran yang mengintimidasi dengan suara ikoniknya"
     },
     {
         "id": 7,
@@ -61,7 +61,7 @@
     },
     {
         "id": 13,
-        "name": "Harimau Kulit Sawo Matang 🐯",
+        "name": "Harimau Sawo Matang 🐯",
         "description": "Kodham yang selalu siap siaga melindungimu dalam jeratan hutang."
     },
     {
@@ -71,7 +71,7 @@
     },
     {
         "id": 15,
-        "name": "Kambing Jantan 🐐",
+        "name": "Kambing Birikng 🐐",
         "description": "Kodham yang menjadi simbol agung, akan memancarkan aura kebijaksanaan."
     },
     {
@@ -96,7 +96,57 @@
     },
     {
         "id": 20,
-        "name": "Naga Putih 🐲",
+        "name": "Naga Bura 🐲",
         "description": "Kodham sakti mandraguna, memancarkan aura kekuatan yang luar biasa."
+    },
+    {
+        "id": 21,
+        "name": "Merua 🐕",
+        "description": "Kodham sakti mandraguna, setia menemanimu setiap malam jumat."
+    },
+    {
+        "id": 22,
+        "name": "Ikan Kentiaq 🐟",
+        "description": "Kodham lumayan sakti, keluar sarang saat musim panen. Lumayan kuat juga menjagamu, cuma lebih baik jaga sendiri."
+    },
+    {
+        "id": 23,
+        "name": "Bekaraaq 🦧",
+        "description": "Kodham yang memilih pemiliknya, anda sangat beruntung mendapatkannya."
+    },
+    {
+        "id": 24,
+        "name": "Tupai Pengo 🐿️",
+        "description": "Kodham sakti mandraguna varian hitam."
+    },
+    {
+        "id": 25,
+        "name": "Naga Pohokng 🐲",
+        "description": "Kodham langka, memancarkan aura kekuatan yang luar biasa."
+    },
+    {
+        "id": 26,
+        "name": "Timang Emas 🐯",
+        "description": "Kodham tier tinggi, langka, dan sangat dicari oleh pencari kodam seluruh penjuru langit."
+    },
+    {
+        "id": 27,
+        "name": "Beruang Madu 🐻",
+        "description": "Kodham perkasa, sering menunjukan wujudnya pada pemilik terpilih."
+    },
+    {
+        "id": 28,
+        "name": "Enggang Emas 🦅",
+        "description": "Kodham perkasa, simbol kemenangan dan kegagahan. Langka dan sangat dicari pemburu kodam."
+    },
+    {
+        "id": 29,
+        "name": "Munyin 🐈‍⬛",
+        "description": "Kodham yang lumayan lincah, namun sedikit bau. Jika pasangan anda mengeluh anda bau, mungkin karena ini"
+    },
+    {
+        "id": 30,
+        "name": "Telaoh 🦌",
+        "description": "Kodham yang menyimbolkan kegesitan, anda mampu berlari dengan sangat kencang."
     }
 ]
